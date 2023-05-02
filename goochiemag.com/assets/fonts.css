@@ -1,0 +1,7 @@
+/* Font: Sneak by Tighttype */
+
+@font-face {font-family: 'Sneak-Regular';src: url('fonts/Sneak-Regular.eot');src: url('fonts/Sneak-Regulard41d.eot?#iefix') format('embedded-opentype'),url('fonts/Sneak-Regular.woff2') format('woff2'),url('fonts/Sneak-Regular.woff') format('woff');}
+  
+@font-face {font-family: 'Sneak-Regular-Italic';src: url('fonts/Sneak-Regular-Italic.eot');src: url('fonts/Sneak-Regular-Italicd41d.eot?#iefix') format('embedded-opentype'),url('fonts/Sneak-Regular-Italic.woff2') format('woff2'),url('fonts/Sneak-Regular-Italic.woff') format('woff');}
+ 
+@font-face {font-family: 'Sneak-Mono';src: url('fonts/Sneak-Mono.eot');src: url('fonts/Sneak-Monod41d.eot?#iefix') format('embedded-opentype'),url('fonts/Sneak-Mono.woff2') format('woff2'),url('fonts/Sneak-Mono.woff') format('woff');}
